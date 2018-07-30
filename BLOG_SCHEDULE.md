@@ -10,7 +10,6 @@
 **07/19**
 
 * Emily Collins
-* Laura Adam
 * Alvaro De La Torre
 * Sydney Barlow
 
@@ -34,34 +33,36 @@
 * Sydney Barlow
 * AyanaZaire Cotton
 * Joshua R Miller
-
-**08/16**
-
 * Andres Manco
 * Ruby Weiner
 * Ryan Chan
 * John Daise
 
+**08/16**
+
+NO BLOGS
+
+
 **08/23**
 
-* Emily Collins
-* Laura Adam
-* Alvaro De La Torre
-* Sydney Barlow
+NO BLOGS
+
 
 **08/30**
 
 * AyanaZaire Cotton
 * Joshua R Miller
 * Andres Manco
-* Ruby Weiner:
+* Ruby Weiner
+* Emily Collins
+* Alvaro De La Torre
+* Sydney Barlow
 
 **09/06**
 
 * Ryan Chan
 * John Daise
 * Emily Collins
-* Laura Adam:
 
 **09/13**
 
